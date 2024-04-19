@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "871109862520",
+    "project_id": "erato-78790",
+    "storage_bucket": "erato-78790.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871109862520:android:793ff1aab6faff4c49f98d",
+        "android_client_info": {
+          "package_name": "com.example.erato"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "871109862520-c463c62cmc2p7cnh84fqvj84b25rh8c6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGhalmNnWqI4Dy7X9hmLF-4G1Fy14tBnY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "871109862520-c463c62cmc2p7cnh84fqvj84b25rh8c6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "871109862520-h8mapk9740ulrffe44j7qhpd6vmj896l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.erato.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
